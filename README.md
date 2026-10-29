@@ -166,4 +166,3 @@ The limit may be increased in a future update, depending on user feedback.
 Developed by **2E0UMR / UHPOWERUP**.
 
 - Website: https://uhpowerup.com/
-````
